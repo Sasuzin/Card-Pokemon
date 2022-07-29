@@ -7,6 +7,11 @@ para se referir a  uma classe no css é necessario colocar 1 ponto (".") antes d
 -display:flex; 
 
 
+padding é espaçamento interno do elemento, e o margin é o externo.
+
+
+Para fazer algo responsivo, vc tem que usar o mesmo seletor do style.
+
 
 
 
