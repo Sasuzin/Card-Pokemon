@@ -1,0 +1,22 @@
+classes são atributos.
+
+para se referir a  uma classe no css é necessario colocar 1 ponto (".") antes do nome da classe.
+
+
+-display: block; ocupa o espaço inteiro(largura inteira);
+-display:flex; 
+
+
+
+
+
+
+
+
+
+
+
+
+                            ATALHOS::::::
+
+                            CTRL + ; (para criar um comentario na linguagem que está sendo utilizada)
