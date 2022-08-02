@@ -45,7 +45,7 @@ body {
     transform: rotateY(180deg);
 }
 .btn-seta:hover {
-    background-color: #7B68EE;
+    background-color: #6495ED;
 }
 .cartao {
     background-color: blueviolet;
